@@ -1,33 +1,9 @@
-1. fundamentals of python programming. (13-01_22)
+1.1: HOw to learn from applied ai course.
+use spaced interval.
+use feymann technique. 
+spaced interval.: 3am -6pm.
+1.2: how job guarantee works:
+dont need that one...
+Python for data Science Introduction
+2.3 Keywords in identifiers:
 
-python keywords:
-python keywords are reserved words.
-we cannot use keywords as varibles.
-
-python indentifiers:
-1. A Name in python program is called an identifier. 
-Rules to define Identifiers:
-1. Identifiers should not start with numbers
-2. Idnetifiers should only contain alpha, numeric and underscore.
-3. no length limit for identifier.
-4. Keywords should not use as identifier.
-comments: to make any comments use # symbol at starting of line
-indentation:
-
-Data types in python:
-1. int 
-2. float
-3. complex
-4. string
-5. boolean
-6. list
-7. tuple
-8. set
-9. frozenset
-10. bytes
-11. bytearray
-12. range
-13. dict
-
-numpy
-1. numpy is 
