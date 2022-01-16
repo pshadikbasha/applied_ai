@@ -6,4 +6,52 @@ spaced interval.: 3am -6pm.
 dont need that one...
 Python for data Science Introduction
 2.3 Keywords in identifiers:
+1. keywords are reserved words in Python.
+2. We cannot use keywords as identifiers, functions names and etc,.
+3. keywords are case sensitive.
+import keyword
+print(keyword.kwlist)
+print(len(keyword.kwlist))
+identifiers: A Name in a python program is called an identifier.
+Rules to define identifiers:
+1. No length limit for identifiers.
+2. Identifiers should not start with numbers
+3. Identifiers should only contain alpha and numerics and underscore.
 
+Comments and indentaions
+we know that shadik, no need to study dude.
+
+2.5 data types in python:
+1. int
+2. float
+3. complex
+4. str
+5. boolean
+6. list
+7. tuple
+8. set
+9. frozenset
+10. range
+11. dict
+12. byte
+13. bytesarray.
+type ()
+id()
+isinstance(1+23,complex)
+2.6 standard input and output
+print("the print the output of the screen")
+input("to take input from user")
+2.7 operators:
+arithematic operators,
+logical operators,
+assignment operators.
+
+Numpy Introduction
+
+1. Extension package for multi-dimensional arrays.
+2. also known as array oriented programming.
+
+1d array is called an vector
+2d array is called an matrix
+nd array is called an tensor.
+linspace wll give the points based on third index.
